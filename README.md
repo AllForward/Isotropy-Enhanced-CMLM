@@ -1,6 +1,6 @@
 # Isotropy-Enhanced Conditional Masked Language Models
 
-⭐ Isotropy-Enhanced Conditional Masked Language Models. EMNLP 2023 Findings. [paper]([https://github.com/pytorch/fairseq](https://aclanthology.org/2023.findings-emnlp.555.pdf)).
+⭐ Isotropy-Enhanced Conditional Masked Language Models. EMNLP 2023 Findings. [paper](https://aclanthology.org/2023.findings-emnlp.555.pdf).
 
 Some codes are borrowed from [Fairseq](https://github.com/pytorch/fairseq).
 
